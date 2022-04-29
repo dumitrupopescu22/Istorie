@@ -143,18 +143,11 @@ list-style-type: none;
 }
 
 
-img {
-  /* float: center; */
-  /* margin-left: 10px; */
-}
-
 .fem_intro {
   text-align: justify;
   font-size: large;
   text-indent: 3em;
 }
-
-
 
 
 .dropbtn {
@@ -167,3 +160,8 @@ img {
   cursor: pointer;
 }
 
+.biblio {
+  width: 100%;
+  height: auto;
+  text-align: justify;
+}
