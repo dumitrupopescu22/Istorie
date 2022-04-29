@@ -62,8 +62,7 @@ list-style-type: none;
 }
 
 #basca {
-  width: 60%;
-  /* position: absolute; */
+  width: 50%;
 }
 
 
@@ -90,7 +89,7 @@ list-style-type: none;
   text-align: left;
   font-size: x-large;
   width: 30%;
-  float: right;
+  float: left;
 }
 
 .link_paragraf {
