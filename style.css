@@ -63,6 +63,7 @@ list-style-type: none;
 
 #basca {
   width: 60%;
+  height: auto;
 }
 
 .datepers {
@@ -70,6 +71,7 @@ list-style-type: none;
   text-align: left;
   font-size: x-large;
   width: 40%;
+  height: auto;
   float: left;
 }
 
