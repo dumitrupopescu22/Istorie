@@ -67,12 +67,17 @@ list-style-type: none;
 }
 
 .datepers {
-  color: white;
+  border: 5px ridge white;
+  margin: 5px;
   text-align: left;
-  font-size: x-large;
-  width: 40%;
+  width: 35%;
   height: auto;
   float: left;
+}
+
+.datepers p {
+  color: white;
+  font-size: x-large;
 }
 
 .titlu2 {
