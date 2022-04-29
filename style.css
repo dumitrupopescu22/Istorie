@@ -62,9 +62,16 @@ list-style-type: none;
 }
 
 #basca {
-  width: 50%;
+  width: 60%;
 }
 
+.datepers {
+  color: white;
+  text-align: left;
+  font-size: x-large;
+  width: 40%;
+  float: left;
+}
 
 .titlu2 {
   text-align: center;
@@ -83,14 +90,6 @@ list-style-type: none;
 }
 
 
-
-.datepers {
-  color: white;
-  text-align: left;
-  font-size: x-large;
-  width: 30%;
-  float: left;
-}
 
 .link_paragraf {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
