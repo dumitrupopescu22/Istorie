@@ -64,6 +64,7 @@ list-style-type: none;
 #basca {
   width: 50%;
   height: auto;
+  float: right;
 }
 
 .datepers {
