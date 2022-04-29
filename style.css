@@ -1,0 +1,162 @@
+nav {
+  background-image: linear-gradient(to right, red, yellow);
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown li {
+list-style-type: none;
+}
+.dropdown:hover .dropbtn {
+  background-color: #e4d60f;
+  border-radius: 10px;
+}
+
+.dropdown .dropbtn a {
+  color: black;
+  text-decoration: none;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  text-align: left;
+  background-color: #dba633;
+  padding: 10px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+  color: black;
+  text-decoration: none;
+}
+
+.dropdown-content a:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+
+#titlu1 {
+  background-image: linear-gradient(blue, yellow, red);
+  font-size: 3em;
+  margin-bottom: 1rem;
+  color: white;
+  padding: 0.2em;
+  text-align: center;
+  text-shadow: 6px 6px 6px rgb(155, 148, 148);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border: 10px ridge rgb(190, 12, 12);
+}
+
+#basca {
+  width: 60%;
+  /* position: absolute; */
+}
+
+
+.titlu2 {
+  text-align: center;
+  text-shadow: 6px 6px 6px rgb(20, 19, 19);
+  color: white;
+  background-color: rgb(214, 94, 46);
+  border: 10px ridge rgb(214, 94, 46);
+}
+
+.titlu-art {
+  text-align: center;
+  font-size: larger;
+  text-shadow: 3px 3px 8px rgb(20, 19, 19);
+  color: rgb(15, 14, 14);
+  background-color: rgb(233, 136, 97);
+}
+
+
+
+.datepers {
+  color: white;
+  text-align: left;
+  font-size: x-large;
+  width: 30%;
+  float: right;
+}
+
+.link_paragraf {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.art_titlu {
+  text-decoration: none;
+  color: darkblue;
+  font: italic bold 1.5em "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.partial {
+  text-decoration: none;
+  text-align: justify;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(17, 17, 161);
+}
+
+#cuprins1 {
+  background-image: linear-gradient(to right, white, transparent),
+    url(/foto/afis.jpg);
+}
+
+.titluri {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+.introducere_text {
+  padding: 5px;
+  background-color: rgb(196, 238, 210);
+}
+
+.poza_femei {
+  width: 400px;
+  float: right;
+  margin-left: 10px;
+}
+
+img {
+  /* float: center; */
+  /* margin-left: 10px; */
+}
+
+.fem_intro {
+  text-align: justify;
+  font-size: large;
+  text-indent: 3em;
+}
+
+
+
+
+.dropbtn {
+  background: rgba(0, 0, 0, 0 );
+  border-radius: 5px;
+  color: black;
+  padding: 10px;
+  font: italic bolder 1.5em arial;
+  border: none;
+  cursor: pointer;
+}
+
