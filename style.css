@@ -10,6 +10,17 @@ nav {
   display: inline-block;
 }
 
+.dropbtn {
+  background: rgba(0, 0, 0, 0 );
+  border-radius: 5px;
+  color: black;
+  padding: 10px;
+  font: italic bolder 1.5em arial;
+  border: none;
+  cursor: pointer;
+}
+
+
 .dropdown li {
 list-style-type: none;
 }
@@ -17,6 +28,7 @@ list-style-type: none;
   background-color: #e4d60f;
   border-radius: 10px;
 }
+
 
 .dropdown .dropbtn a {
   color: black;
@@ -45,8 +57,6 @@ list-style-type: none;
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-
 
 
 #titlu1 {
@@ -147,17 +157,6 @@ list-style-type: none;
   text-align: justify;
   font-size: large;
   text-indent: 3em;
-}
-
-
-.dropbtn {
-  background: rgba(0, 0, 0, 0 );
-  border-radius: 5px;
-  color: black;
-  padding: 10px;
-  font: italic bolder 1.5em arial;
-  border: none;
-  cursor: pointer;
 }
 
 .biblio {
