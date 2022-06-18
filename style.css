@@ -58,6 +58,20 @@ list-style-type: none;
   display: block;
 }
 
+.adrese {
+  text-align:center;
+}
+
+.adrese a {
+  font-size: x-large;
+  color: crimson;
+  text-decoration: none;
+}
+
+linkuri, a {
+  text-decoration: none;
+  text-align: center;
+}
 
 #titlu1 {
   background-image: linear-gradient(blue, yellow, red);
