@@ -164,3 +164,8 @@ list-style-type: none;
   height: auto;
   text-align: justify;
 }
+
+table, th, td {
+  border: 1px solid black;
+  font-style: italic;
+}
