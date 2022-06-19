@@ -59,7 +59,7 @@ list-style-type: none;
 }
 
 
-linkuri, a {
+ .linkuri a {
   text-decoration: none;
   text-align: center;
 }
