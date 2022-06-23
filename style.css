@@ -63,7 +63,7 @@ list-style-type: none;
  .linkuri a {
   text-decoration: none;
   text-align: center;
-  text-shadow: 5px 3px 4px black;
+  text-shadow: 5px 3px 4px rgb(22, 18, 18);
   color: #abe40f;
 }
 
