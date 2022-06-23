@@ -3,6 +3,7 @@ nav {
   text-align: center;
   position: sticky;
   top: 0;
+  border: 5px ridge grey;
 }
 
 .dropdown {
@@ -62,6 +63,8 @@ list-style-type: none;
  .linkuri a {
   text-decoration: none;
   text-align: center;
+  text-shadow: 5px 3px 4px black;
+  color: #abe40f;
 }
 
 #titlu1 {
