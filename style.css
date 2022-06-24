@@ -1,24 +1,15 @@
 nav {
-  background-image: linear-gradient(to right, red, yellow);
-  text-align: center;
-  position: sticky;
-  top: 0;
-  border: 5px ridge grey;
+  background-image: linear-gradient(to right, red, yellow); text-align: center;
+  position: sticky; top: 0; border: 5px ridge grey;
 }
 
 .dropdown {
-  position: relative;
-  display: inline-block;
+  position: relative; display: inline-block;
 }
 
 .dropbtn {
-  background: rgba(0, 0, 0, 0 );
-  border-radius: 5px;
-  color: black;
-  padding: 10px;
-  font: italic bolder 1.5em arial;
-  border: none;
-  cursor: pointer;
+  background: rgba(0, 0, 0, 0 ); border-radius: 5px; color: black; padding: 10px;
+  font: italic bolder 1.5em arial; border: none; cursor: pointer;
 }
 
 
@@ -26,33 +17,25 @@ nav {
 list-style-type: none;
 }
 .dropdown:hover .dropbtn {
-  background-color: #e4d60f;
-  border-radius: 10px;
+  background-color: #e4d60f; border-radius: 10px;
 }
 
 
 .dropdown .dropbtn a {
-  color: black;
-  text-decoration: none;
+  color: black; text-decoration: none;
 }
 
 .dropdown-content {
-  display: none;
-  position: absolute;
-  text-align: left;
-  background-color: #dba633;
-  padding: 10px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  display: none; position: absolute; text-align: left; background-color: #dba633;
+  padding: 10px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
 .dropdown-content a {
-  color: black;
-  text-decoration: none;
+  color: black; text-decoration: none;
 }
 
 .dropdown-content a:hover {
-  font-size: larger;
-  font-weight: bold;
+  font-size: larger; font-weight: bold;
 }
 
 .dropdown:hover .dropdown-content {
@@ -61,58 +44,39 @@ list-style-type: none;
 
 
  .linkuri a {
-  text-decoration: none; font-size: large;
-  text-align: center;
-  text-shadow: 5px 3px 4px rgb(22, 18, 18);
-  color: #abe40f;
+  text-decoration: none; font-size: large; text-align: center;
+  text-shadow: 5px 3px 4px rgb(22, 18, 18); color: #abe40f;
 }
 
 #titlu1 {
-  background-image: linear-gradient(blue, yellow, red);
-  font-size: 3em;
-  margin-bottom: 1rem;
-  color: white;
-  padding: 0.2em;
-  text-align: center;
+  background-image: linear-gradient(blue, yellow, red); font-size: 3em;
+  margin-bottom: 1rem; color: white; padding: 0.2em;text-align: center;
   text-shadow: 6px 6px 6px rgb(155, 148, 148);
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   border: 10px ridge rgb(190, 12, 12);
 }
 
 #basca {
-  width: 50%;
-  height: auto;
-  float: right;
+  width: 50%; height: auto; float: right;
 }
 
 .datepers {
-  border: 5px ridge white;
-  margin: 5px;
-  text-align: left;
-  width: 35%;
-  height: auto;
-  float: left;
+  border: 5px ridge white; margin: 5px; text-align: left; width: 35%;
+  height: auto; float: left;
 }
 
 .datepers p {
-  color: white;
-  font-size: x-large;
+  color: white; font-size: x-large;
 }
 
 .titlu2 {
-  text-align: center;
-  text-shadow: 6px 6px 6px rgb(20, 19, 19);
-  color: white;
-  background-color: rgb(214, 94, 46);
-  border: 10px ridge rgb(214, 94, 46);
+  text-align: center; text-shadow: 6px 6px 6px rgb(20, 19, 19); color: white;
+  background-color: rgb(214, 94, 46); border: 10px ridge rgb(214, 94, 46);
 }
 
 .titlu-art {
-  text-align: center;
-  font-size: larger;
-  text-shadow: 3px 3px 8px rgb(20, 19, 19);
-  color: rgb(15, 14, 14);
-  background-color: rgb(233, 136, 97);
+  text-align: center; font-size: larger; text-shadow: 3px 3px 8px rgb(20, 19, 19);
+  color: rgb(15, 14, 14); background-color: rgb(233, 136, 97);
 }
 
 
@@ -122,58 +86,42 @@ list-style-type: none;
 }
 
 .art_titlu {
-  text-decoration: none;
-  color: darkblue;
+  text-decoration: none; color: darkblue;
   font: italic bold 1.5em "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
 
 .partial {
-  text-decoration: none;
-  text-align: justify;
+  text-decoration: none; text-align: justify; color: rgb(17, 17, 161);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: rgb(17, 17, 161);
 }
 
 #cuprins1 {
-  background-image: linear-gradient(to right, white, transparent),
-    url(/foto/afis.jpg);
+  background-image: linear-gradient(to right, white, transparent), url(/foto/afis.jpg);
 }
 
 .titluri {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: large;
-  font-style: italic;
-  font-weight: bold;
-  text-decoration: none;
-  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: large; font-style: italic;
+  font-weight: bold; text-decoration: none; color: black;
 }
 
 .introducere_text {
-  padding: 5px;
-  background-color: rgb(196, 238, 210);
+  padding: 5px; background-color: rgb(196, 238, 210);
 }
 
 .poza_femei {
-  width: 300px;
-  float: right;
-  margin-left: 10px;
+  width: 300px; float: right; margin-left: 10px;
 }
 
 
 .fem_intro {
-  text-align: justify;
-  font-size: large;
-  text-indent: 3em;
+  text-align: justify; font-size: large; text-indent: 3em;
 }
 
 .biblio {
-  width: 100%;
-  height: auto;
-  text-align: justify;
+  width: 100%; height: auto; text-align: justify;
 }
 
 table, th, td {
-  border: 1px solid black;
-  font-style: italic;
+  border: 1px solid black; font-style: italic;
 }
